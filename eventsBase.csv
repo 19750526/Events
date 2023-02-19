@@ -1,0 +1,51 @@
+idEvents,nameOfEvents,date,city,price,quantityOfTickets,typeOfEvent
+1,Wystawa Militariów,2023-01-30,Gdańsk,"12,00",50,Wystawy
+2,Wystawa Sztuki Nowoczesnej,2023-02-02,Gdynia,"53,00",40,Wystawy
+3,Kabaret Ani mru mru,2023-02-04,Gdańsk,"25,00",20,Kabarety
+4,Koncert Kasi Kowalskiej,2023-02-09,Sopot,"15,00",30,Koncerty
+5,Wystawa Bursztynu,2023-02-10,Gdańsk,"51,00",60,Wystawy
+6,Koncert Queen,2023-02-11,Gdynia,"65,00",59,Koncerty
+7,Koncert Bon Jovi,2023-02-12,Sopot,"59,00",56,Koncerty
+8,Mecz Lechia Gdańsk Śląsk Wrocław,2023-02-13,Gdańsk,"85,00",47,Mecze
+9,Mecz Trefl Sopot Arka Gdynia,2023-02-14,Gdańsk,"52,00",58,Mecze
+10,Koncert Old Stars,2023-02-15,Gdańsk,"65,00",25,Koncerty
+11,Koncert Muzyki Filmowej,2023-02-16,Gdynia,"84,00",80,Koncerty
+12,Koncert Muzyki Poważnej,2023-02-17,Gdańsk,"54,00",57,Kabarety
+13,Kabaret Młodych Panów,2023-02-18,Sopot,"55,00",26,Kabarety
+14,Kabaret Munio,2023-02-19,Sopot,"21,00",82,Kabarety
+15,Kabaret Paranienormalni,2023-02-20,Gdańsk,"86,00",95,Kabarety
+16,Kabaret Hrabi,2023-02-21,Gdańsk,"91,00",65,Kabarety
+17,Teatr Hamlet,2023-03-02,Gdańsk,"58,00",35,Teatr
+18,Teatr Romeo i Julia,2023-03-15,Gdynia,"75,00",82,Teatr
+19,Teatr Fanatyk,2023-03-16,Gdynia,"98,00",60,Teatr
+20,Kino Avatar,2023-03-17,Sopot,"85,00",50,Kino
+21,Kino Titanic,2023-03-18,Sopot,"57,00",80,Kino
+22,Kino Top Gun,2023-03-19,Gdańsk,"88,00",45,Kino
+23,Kino Król Lew,2023-03-20,Gdańsk,"65,00",54,Kino
+24,Wystawa Obrazów Jana Matejki,2023-03-21,Gdynia,"89,00",67,Wystawy
+25,Wystawa Starych Pocztówek,2023-03-22,Sopot,"65,00",92,Wystawy
+26,Mecz Trefl Gdańska Asseco Resovia,2023-03-23,Gdańsk,"32,00",58,Mecze
+27,Teatr Pinokio,2023-03-24,Gdańsk,"56,00",60,Teatr
+28,Koncert Słoneczka,2023-03-25,Gdańsk,"80,00",50,Koncerty
+29,Koncert Perfect,2023-03-26,Sopot,"58,00",40,Koncerty
+30,Koncert Muzyki Organowej,2023-04-05,Gdańsk,"12,00",58,Koncerty
+31,Kabaret Formacja Chatelet,2023-03-29,Gdynia,"53,00",25,Kabarety
+32,Mecz Lechia Gdańsk Arka Gdynia,2023-04-24,Gdańsk,"25,00",80,Mecze
+33,Kabaret Limo,2023-04-30,Sopot,"15,00",57,Kabarety
+34,Teatr Brzechwa 2020,2023-03-03,Gdańsk,"51,00",26,Teatr
+35,Kino Avatar: Istota wody,2023-04-26,Gdynia,"65,00",82,Kino
+36,Kabaret Neo-Nówka,2023-03-27,Sopot,"59,00",95,Kabarety
+37,Wystawa Muzeum od kuchni,2023-04-01,Gdańsk,"85,00",65,Wystawy
+38,Mecz Trefl Sopot Legia Warszawa,2023-04-13,Gdańsk,"52,00",35,Mecze
+39,Wystawa Van Gogha,2023-03-23,Gdańsk,"65,00",82,Wystawy
+40,Kino Mumie,2023-04-25,Gdynia,"84,00",60,Kino
+41,Kabaret Jurki,2023-04-05,Gdańsk,"54,00",50,Kabarety
+42,Wystawa Dawni gdańszczanie,2023-04-19,Sopot,"55,00",80,Wystawy
+43,Kabaret Skeczów Męczących,2023-04-17,Sopot,"21,00",45,Kabarety
+44,Wystawa Fotografii,2023-03-19,Gdańsk,"86,00",54,Wystawy
+45,Kabaret Nowaki,2023-03-25,Gdańsk,"91,00",67,Kabarety
+46,Wystawa Zakątki sopockiej przyrody,2023-04-17,Gdańsk,"58,00",92,Wystawy
+47,Mecz Trefl Gdańsk Indykpol Olsztyn,2023-03-31,Gdynia,"75,00",58,Mecze
+48,Kino Masz ci los!,2023-04-02,Gdynia,"98,00",60,Kino
+49,Wystawa Modeli Statków,2023-04-04,Sopot,"85,00",50,Wystawy
+50,Mecz Lechia Gdańsk Korona Kielce,2023-04-29,Gdańsk,"52,00",40,Mecze
